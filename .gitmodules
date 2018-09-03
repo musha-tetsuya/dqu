@@ -1,3 +1,6 @@
 [submodule "UnityProject/Assets/Musha"]
 	path = UnityProject/Assets/Musha
 	url = https://github.com/musha-tetsuya/Musha.git
+[submodule "UnityProject/Assets/DQUResource"]
+	path = UnityProject/Assets/DQUResource
+	url = https://github.com/musha-tetsuya/DQUResource.git
