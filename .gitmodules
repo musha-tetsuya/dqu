@@ -1,0 +1,3 @@
+[submodule "UnityProject/Assets/Musha"]
+	path = UnityProject/Assets/Musha
+	url = https://github.com/musha-tetsuya/Musha.git
